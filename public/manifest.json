@@ -1,0 +1,37 @@
+{
+  "name": "Crypto Hunter",
+  "short_name": "Crypto Hunter",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "./maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose":"any maskable"
+    },
+    {
+      "src": "./Crypto192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./Crypto256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./Crypto384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "./Crypto512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
