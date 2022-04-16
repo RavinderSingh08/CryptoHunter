@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Crypto Hunter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    React Crypto Currency App
+    
+# Live Project Link
+   
+   Crypto Hunter: https://cryptohunter111.netlify.app/
+   
+# Preview
+![Crypto Hunter (Homepage)](https://user-images.githubusercontent.com/76047915/163677963-20263405-0da2-432c-934f-1d7f802b4f1f.png)
+
+![Crypto Hunter (Coin Page)](https://user-images.githubusercontent.com/76047915/163677977-996a699b-f7c1-461c-9e81-131fc0e2eabf.png)
+
+![Crypto Hunter (Login Panel)](https://user-images.githubusercontent.com/76047915/163677990-041ec5a6-9589-416b-8c75-daa7058451f4.png)
 
 ## Available Scripts
 
