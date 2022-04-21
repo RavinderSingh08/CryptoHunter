@@ -9,7 +9,7 @@
 # Introduction
 This is a code repository for the corresponding Project.
 
-In this project, I have build a Crypto Currency watch app. While building it, I learn many advanced React & JavaScript topics. Some of them are Google Firebase for Login and Authentication purposes, Chart JS for showing chart for showing regular frequecy of currency, React Routers and Coin Gecko API. 
+In this project, I have build a Crypto Currency watch app. While building it, I learn many advanced React & JavaScript topics. Some of them are Google Firebase for Login and Authentication purposes, Chart JS for showing chart for showing regular frequency of currency, React Routers and Coin Gecko API. 
 
 This app helps its user to watch over all the crypto currency prices, there last 24hr changes, its market cap and much more. In todays world everybody wants to invest in digital currency and this app helps them to choose where to invest.
    
